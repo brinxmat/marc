@@ -1,0 +1,4 @@
+rootProject.name = 'marc'
+include 'reader'
+rootProject.name = 'marc'
+
